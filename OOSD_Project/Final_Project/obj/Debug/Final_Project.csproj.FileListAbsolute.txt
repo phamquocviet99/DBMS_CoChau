@@ -1,0 +1,223 @@
+C:\Users\Dell\source\repos\Final_Project\Final_Project\bin\Debug\Final_Project.exe.config
+C:\Users\Dell\source\repos\Final_Project\Final_Project\bin\Debug\Final_Project.exe
+C:\Users\Dell\source\repos\Final_Project\Final_Project\bin\Debug\Final_Project.pdb
+C:\Users\Dell\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin_Form.resources
+C:\Users\Dell\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.UC_Employee.resources
+C:\Users\Dell\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Dell\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.exe
+C:\Users\Dell\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.pdb
+C:\Users\Dell\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Account.resources
+C:\Users\Dell\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount.resources
+C:\Users\Dell\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount_Form.resources
+C:\Users\Dell\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Login_Form.resources
+C:\Users\Dell\source\repos\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Category.resources
+D:\viet\visual\Final_Project\Final_Project\obj\Debug\Final_Project.csprojAssemblyReference.cache
+D:\viet\visual\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin_Form.resources
+D:\viet\visual\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount.resources
+D:\viet\visual\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount_Form.resources
+D:\viet\visual\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Account.resources
+D:\viet\visual\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Category.resources
+D:\viet\visual\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.UC_Employee.resources
+D:\viet\visual\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Login_Form.resources
+D:\viet\visual\Final_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+D:\viet\visual\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+D:\viet\visual\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+D:\viet\visual\Final_Project\Final_Project\obj\Debug\Final_Project.exe
+D:\viet\visual\Final_Project\Final_Project\obj\Debug\Final_Project.pdb
+D:\viet\visual\Final_Project\Final_Project\bin\Debug\Final_Project.exe.config
+D:\viet\visual\Final_Project\Final_Project\bin\Debug\Final_Project.exe
+D:\viet\visual\Final_Project\Final_Project\bin\Debug\Final_Project.pdb
+D:\viet\visual\Final_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Brand.resources
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe.config
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\bin\Debug\Final_Project.pdb
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin_Form.resources
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount.resources
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount_Form.resources
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Account.resources
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Brand.resources
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Category.resources
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Customer.resources
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.UC_Employee.resources
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Login_Form.resources
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.exe
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.pdb
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_WareHouse.resources
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Product.resources
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.csprojAssemblyReference.cache
+E:\TAI LIEU\2019-2020\HK2\GsLite\Github_OOSD\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Company.resources
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe.config
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\bin\Debug\Final_Project.pdb
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.csprojAssemblyReference.cache
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin_Form.resources
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount.resources
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount_Form.resources
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Account.resources
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Brand.resources
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Category.resources
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Company.resources
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Customer.resources
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.UC_Employee.resources
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Product.resources
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_WareHouse.resources
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Login_Form.resources
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.exe
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.pdb
+E:\tkpmhdt\Final_Project\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.Saler.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe.config
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\bin\Debug\Final_Project.pdb
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.csprojAssemblyReference.cache
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin_Form.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount_Form.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.Saler.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Account.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Brand.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Category.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Company.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Customer.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.UC_Employee.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Product.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_WareHouse.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Login_Form.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.exe
+C:\Users\phamq\Desktop\dev\OOSD_Project\Final_Project\obj\Debug\Final_Project.pdb
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe.config
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\bin\Debug\Final_Project.pdb
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.csprojAssemblyReference.cache
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin_Form.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount_Form.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.Saler.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Account.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Brand.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Category.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Company.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Customer.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.UC_Employee.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Product.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_WareHouse.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Login_Form.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.exe
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.pdb
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.Create_Cus_for_Saler.resources
+C:\Users\phamq\Desktop\git\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Profile.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.csprojAssemblyReference.cache
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin_Form.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount_Form.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.Create_Cus_for_Saler.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.Saler.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Account.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Brand.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Category.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Company.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Customer.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.UC_Employee.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Product.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_WareHouse.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Login_Form.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Profile.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.exe
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\obj\Debug\Final_Project.pdb
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe.config
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe
+C:\Users\phamq\Desktop\2h26\OOSD_Project\Final_Project\bin\Debug\Final_Project.pdb
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe.config
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\bin\Debug\Final_Project.pdb
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.csprojAssemblyReference.cache
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin_Form.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount_Form.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.Create_Cus_for_Saler.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.Saler.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Account.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Brand.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Category.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Company.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Customer.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.UC_Employee.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Product.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_WareHouse.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Login_Form.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Profile.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.exe
+E:\tkpmhdt\realfn\OOSD_Project\Final_Project\obj\Debug\Final_Project.pdb
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe.config
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\bin\Debug\Final_Project.pdb
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.csprojAssemblyReference.cache
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin_Form.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount_Form.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.Create_Cus_for_Saler.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.Saler.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Account.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Brand.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Category.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Company.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Customer.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.UC_Employee.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Product.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_WareHouse.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Login_Form.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Profile.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.exe
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.pdb
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Warranty_Form.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.Stock_manager.resources
+C:\Users\phamq\Desktop\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Statis.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe.config
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\bin\Debug\Final_Project.exe
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\bin\Debug\Final_Project.pdb
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.csprojAssemblyReference.cache
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin_Form.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.CreateAccount_Form.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.Create_Cus_for_Saler.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.Saler.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.Stock_manager.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Account.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Category.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Company.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Customer.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.UC_Employee.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Product.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_Statis.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.Admin.UC_WareHouse.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Login_Form.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Profile.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.GUI.User.Warranty_Form.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.exe
+C:\Users\phamq\Desktop\Database_Final\OOSD_Project\Final_Project\obj\Debug\Final_Project.pdb

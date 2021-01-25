@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D5C0CB31-C84F-4A80-8CE3-306B441448C4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Final_Project</RootNamespace>
+    <AssemblyName>Final_Project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\Bill_InDAO.cs" />
+    <Compile Include="DAO\Bill_Info_InDAO.cs" />
+    <Compile Include="DAO\Bill_Info_OutDAO.cs" />
+    <Compile Include="DAO\Bill_OutDAO.cs" />
+    <Compile Include="DAO\CategoryDAO.cs" />
+    <Compile Include="DAO\CompanyDAO.cs" />
+    <Compile Include="DAO\CustomerDAO.cs" />
+    <Compile Include="DAO\EmployeeDAO.cs" />
+    <Compile Include="DAO\MenuDAO.cs" />
+    <Compile Include="DAO\Observer.cs" />
+    <Compile Include="DAO\ProductDAO.cs" />
+    <Compile Include="DAO\WarehouseDAO.cs" />
+    <Compile Include="DAO\WarrantyDAO.cs" />
+    <Compile Include="DTO\Account.cs" />
+    <Compile Include="DTO\Bill_In.cs" />
+    <Compile Include="DTO\Bill_Info_In.cs" />
+    <Compile Include="DTO\Bill_Info_Out.cs" />
+    <Compile Include="DTO\Bill_Out.cs" />
+    <Compile Include="DTO\Category.cs" />
+    <Compile Include="DTO\Company.cs" />
+    <Compile Include="DTO\Customer.cs" />
+    <Compile Include="DTO\Employee.cs" />
+    <Compile Include="DTO\Menu.cs" />
+    <Compile Include="DTO\Product.cs" />
+    <Compile Include="DTO\Warehouse.cs" />
+    <Compile Include="DTO\Warranty.cs" />
+    <Compile Include="GUI\Admin\Admin_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\Admin_Form.Designer.cs">
+      <DependentUpon>Admin_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\CreateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\CreateAccount.Designer.cs">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\CreateAccount_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\CreateAccount_Form.Designer.cs">
+      <DependentUpon>CreateAccount_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\Create_Cus_for_Saler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\Create_Cus_for_Saler.Designer.cs">
+      <DependentUpon>Create_Cus_for_Saler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\Saler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\Saler.Designer.cs">
+      <DependentUpon>Saler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\Stock_manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\Stock_manager.Designer.cs">
+      <DependentUpon>Stock_manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_Account.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_Account.Designer.cs">
+      <DependentUpon>UC_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_Category.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_Category.Designer.cs">
+      <DependentUpon>UC_Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_Company.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_Company.Designer.cs">
+      <DependentUpon>UC_Company.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_Customer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_Customer.Designer.cs">
+      <DependentUpon>UC_Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_Product.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_Product.Designer.cs">
+      <DependentUpon>UC_Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_Statis.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_Statis.Designer.cs">
+      <DependentUpon>UC_Statis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_WareHouse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_WareHouse.Designer.cs">
+      <DependentUpon>UC_WareHouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\MyDB.cs" />
+    <Compile Include="GUI\Admin\UC_Employee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\UC_Employee.Designer.cs">
+      <DependentUpon>UC_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\User\Login_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\User\Login_Form.Designer.cs">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\User\Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\User\Profile.Designer.cs">
+      <DependentUpon>Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\User\Warranty_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\User\Warranty_Form.Designer.cs">
+      <DependentUpon>Warranty_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\Admin\Admin_Form.resx">
+      <DependentUpon>Admin_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\CreateAccount.resx">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\CreateAccount_Form.resx">
+      <DependentUpon>CreateAccount_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\Create_Cus_for_Saler.resx">
+      <DependentUpon>Create_Cus_for_Saler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\Saler.resx">
+      <DependentUpon>Saler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\Stock_manager.resx">
+      <DependentUpon>Stock_manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\UC_Account.resx">
+      <DependentUpon>UC_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\UC_Category.resx">
+      <DependentUpon>UC_Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\UC_Company.resx">
+      <DependentUpon>UC_Company.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\UC_Customer.resx">
+      <DependentUpon>UC_Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\UC_Employee.resx">
+      <DependentUpon>UC_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\UC_Product.resx">
+      <DependentUpon>UC_Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\UC_Statis.resx">
+      <DependentUpon>UC_Statis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\UC_WareHouse.resx">
+      <DependentUpon>UC_WareHouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\User\Login_Form.resx">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\User\Profile.resx">
+      <DependentUpon>Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\User\Warranty_Form.resx">
+      <DependentUpon>Warranty_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="login2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="106830.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="search--v2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="945px-Vector_search_icon.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Remove-item-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1200px-User_font_awesome.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1200px-User_font_awesome.svg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart-add-icon %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_01.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
